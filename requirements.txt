@@ -5,3 +5,4 @@ pinecone-client
 flask
 ipywidgets
 langchain-pinecone
+-e . #to install as a local package and setup.py
