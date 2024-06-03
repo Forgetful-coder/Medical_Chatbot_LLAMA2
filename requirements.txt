@@ -5,4 +5,5 @@ pinecone-client
 flask
 ipywidgets
 langchain-pinecone
+python-dotenv
 -e . #to install as a local package and setup.py
